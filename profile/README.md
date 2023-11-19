@@ -83,10 +83,10 @@ contributions are appreciated.
 
 To show your project uses Repo Meister place this badge in the README markdown:
 
-[![Repo Meister Actions](https://img.shields.io/badge/Repo-Meister-Actions-green.svg)](https://github.com/repo-meister-actions)
+[![Repo Meister Actions](https://img.shields.io/badge/Repo%20Meister-Actions-green.svg)](https://github.com/repo-meister-actions)
 
 ```
-[![Repo Meister Actions](https://img.shields.io/badge/Repo-Meister-Actions-green.svg)](https://github.com/repo-meister-actions)
+[![Repo Meister Actions](https://img.shields.io/badge/Repo%20Meister-Actions-green.svg)](https://github.com/repo-meister-actions)
 ```
 
 # License
