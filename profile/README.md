@@ -3,7 +3,7 @@
 A Collection of Reusable GitHub Actions and Workflows.
 
 <div align="center">
-  <img src="repo-meister-logo.png" width="384"/>
+  <img src="profile/repo-meister-logo.png" width="384"/>
 </div>
 
 # Introduction
